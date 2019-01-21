@@ -15,6 +15,7 @@ The following bugs are fixed in this fork:
  - [Don't throw an exception on a `replace` directive](http://github.com/simos/keyboardlayouteditor/issues/24)
  - [Respect selected font style](http://github.com/simos/keyboardlayouteditor/issues/25)
  - [Fixed inverted right/left-tacks & up-/down-tacks (thanks to gnu9)](https://github.com/simos/keyboardlayouteditor/pull/14)
+ - [Update README to newer antlr (thanks to blurayne)](https://github.com/simos/keyboardlayouteditor/pull/31)
 
 Additional changes:
 
